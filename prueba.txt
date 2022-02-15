@@ -1,1 +1,1 @@
-Esto es texto
+Esto es texto y lo actualice desde git terminal
